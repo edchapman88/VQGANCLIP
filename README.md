@@ -1,2 +1,2 @@
-# VQGANCLIP
-#Ai artist to create content for snaffler.
+# aiArt
+3 neural networks (VQGAN and CLIP)
